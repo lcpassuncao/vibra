@@ -1,0 +1,88 @@
+cod_produto,categoria_produto,familia_produto,nome_produto,segmento_mercado,desc_produto,tipo_fonte
+1,Combustíveis,Etanol (Álcool),Etanol Hidratado Aditivado Petrobras Grid,Varejo / Postos de Combustível,Etanol hidratado com aditivos exclusivos da tecnologia Petrobras Grid para limpeza e proteção do motor.,Renovável
+2,Combustíveis,Gasolina automotiva,Gasolina C Podium,Varejo / Postos de Combustível,"Gasolina de alta octanagem e baixo teor de enxofre, ideal para veículos de alta performance.",Fóssil
+3,Combustíveis,Gasolina automotiva,Gasolina Comum C Aditivada Petrobras Grid,Varejo / Postos de Combustível,Gasolina comum aditivada com redutor de atrito e agentes de limpeza da tecnologia Grid.,Fóssil
+4,Combustíveis,Querosene de aviação,Querosene de Aviação (JET A-1),Aviação,Combustível para turbinas de aeronaves com especificações técnicas rigorosas para segurança de voo.,Fóssil
+5,Combustíveis,Diesel automotivo,Óleo Diesel B S10 Petrobras Grid,Transporte / Rodoviário,Diesel com baixo teor de enxofre (10ppm) aditivado para maior proteção e limpeza do sistema de injeção.,Fóssil
+6,Combustíveis,Diesel automotivo,Óleo Diesel B S10 Agripetro,Agronegócio,Diesel S10 formulado especificamente para as necessidades de máquinas e equipamentos agrícolas.,Fóssil
+7,Combustíveis,Diesel marítimo,Óleo Diesel Marítimo Petrobras Verana,Óleo e Gás / Marítimo,Combustível marítimo de alta qualidade para embarcações com foco em desempenho e redução de emissões.,Fóssil
+8,Combustíveis,Óleo combustível,AddCleaner Petrobras A2,Indústrias,Óleo combustível industrial aditivado para melhor queima e manutenção de caldeiras.,Fóssil
+9,Lubrificantes,Produtos Lubrax,Lubrax (Linha Completa),Automotivo / Industrial / Agronegócio,"Óleos lubrificantes de diversas viscosidades para motores, engrenagens e sistemas hidráulicos.",Fóssil
+10,Químicos e Petroquímicos,Óleos agrícolas,OPPA AD,Agronegócio,Óleo químico para aplicação agrícola com propriedades aditivadas para proteção de cultivos.,Fóssil
+11,Químicos e Petroquímicos,Solventes,Aguarrás Mineral RS,Indústrias,Solvente alifático utilizado em processos industriais e diluição de tintas.,Fóssil
+12,Combustíveis,Gás,Gás Natural Veicular (GNV),Transporte / Varejo,"Combustível gasoso para veículos, oferecendo economia e menor emissão de particulados.",Fóssil
+13,Combustíveis,Combustíveis de Aviação,Combustível de Aviação (Jet A-1 / Avgas),Aviação,Fornecimento de combustíveis para aeronaves em 94 aeroportos brasileiros sob a marca BR Aviation.,Fóssil (Inferido)
+14,Lubrificantes,Lubrax,Lubrax (Linha completa),B2B / Consumo Geral,Linha líder de lubrificantes no Brasil para diversos tipos de motores e aplicações industriais.,Fóssil (Inferido)
+15,Energia,Soluções de Energia Renovável,Soluções de Energia Renovável,Negócios / Corporativo,Portfólio amplo de soluções focadas em fontes de energia limpa e sustentável.,Renovável
+16,Combustíveis,Ciclo Otto / Gasolina,Petrobras Podium (Gasolina),Varejo (Postos de Combustível),"Linha premium de gasolina com alta tecnologia e performance superior, produzida sob rígido padrão de qualidade.",Fóssil
+17,Combustíveis,Ciclo Diesel,Petrobras Podium (Diesel),Transporte / Rodoviário,Diesel de categoria premium com performance superior e tecnologia avançada para motores ciclo diesel.,Fóssil
+18,Combustíveis,Ciclo Otto / Gasolina,Petrobras Grid (Gasolina),Varejo (Postos de Combustível),"Gasolina aditivada que oferece maior proteção ao motor e redução de depósitos, garantindo maior eficiência.",Fóssil
+19,Combustíveis,Etanol,Petrobras Grid (Etanol),Varejo (Postos de Combustível),"Etanol aditivado da linha Grid, desenvolvido para limpeza e proteção das partes internas do motor.",Renovável
+20,Combustíveis,Ciclo Diesel,Petrobras Grid (Diesel),Transporte / Rodoviário,Diesel aditivado focado em limpeza do sistema de injeção e melhor desempenho operacional.,Fóssil
+21,Combustíveis,Náutico,Diesel Verana,Aviação / Náutico,"Único óleo diesel premium do mercado náutico, otimizado para embarcações e motores de alto desempenho.",Fóssil
+22,Lubrificantes,Lubrax Automotivo,Lubrificantes Automotivos Lubrax,Varejo / Serviços,"Linha de óleos lubrificantes de excelência para veículos leves, com especificações técnicas para diversas montadoras.",Fóssil
+23,Lubrificantes,Lubrax Motocicletas,Lubrificantes para Motocicletas Lubrax,Varejo / Serviços,Produtos desenvolvidos especificamente para o regime de alta rotação e temperatura de motores de motocicletas.,Fóssil
+24,Lubrificantes,Lubrax Pesados,Lubrificantes para Caminhões e SUVs Lubrax,Transporte / Agronegócio,"Lubrificantes de alta performance para motores pesados, garantindo proteção contra o desgaste e maior vida útil.",Fóssil
+25,Combustíveis,Ciclo Otto,Gasolina,"Postos de Combustível, Varejo, Transporte","Combustível fóssil para veículos de ignição por centelha, disponível em versões comum e aditivada com diferenciais tecnológicos de limpeza.",Fóssil
+26,Combustíveis,Ciclo Diesel,Diesel,"Agronegócio, Transporte, Indústrias, TRR","Combustível para motores de ignição por compressão, essencial para logística e maquinário pesado.",Fóssil
+27,Combustíveis,Ciclo Otto,Etanol,"Postos de Combustível, Varejo",Biocombustível obtido a partir de fontes 100% renováveis (cana-de-açúcar ou milho).,Renovável
+28,Lubrificantes,Lubrax,Linha Lubrax (Geral),"Automotivo, Industrial, Ferroviário, Marítimo","Linha completa com mais de 130 famílias de produtos, incluindo óleos com viscosidades específicas para motores e sistemas industriais.",Fóssil
+29,Energia,Gases Renováveis,Biometano,"Indústrias, Serviços","Geração de energia limpa para descarbonização da matriz energética, proveniente de matéria orgânica.",Renovável
+30,Soluções de Energia,Energia Elétrica,Recarga Elétrica (Eletromobilidade),"Transporte (Frotas), Varejo",Soluções completas de infraestrutura para recarga de veículos elétricos e híbridos.,Renovável
+31,Soluções de Energia,Mercado Livre,Migração para Mercado Livre,"Indústrias, Serviços, B2B",Consultoria e fornecimento de energia elétrica com foco em redução de custos e sustentabilidade.,Renovável
+32,Químicos,Químicos e Petroquímicos,Produtos Químicos,"Indústrias, Óleo e Gás",Insumos químicos e derivados petroquímicos para processos industriais diversos.,Fóssil
+33,Combustíveis,Coque,Coque de Petróleo,Indústrias,Subproduto sólido do refino de petróleo utilizado como combustível industrial ou insumo.,Fóssil
+34,Combustíveis,Ciclo Diesel,Vibra Agritop Diesel,Agronegócio,"Desenvolvido com tecnologia exclusiva para transformar a produtividade, gerando economia e eficiência em operações agrícolas.",Fóssil
+35,Lubrificantes,Lubrax,Lubrificantes para Agronegócio,Agronegócio,Variedade de produtos com fórmula especial para tratores e equipamentos agrícolas de alto desempenho.,Fóssil
+36,Combustíveis,Aviação,Querosene de Aviação (Comum e Aditivado),Aviação,"Combustível para aeronaves, disponível nas versões comum e aditivada, distribuído em aeroportos e bases.",Fóssil
+37,Combustíveis,Aviação,Gasolina de Aviação,Aviação,Combustível específico para aeronaves com motores a pistão.,Fóssil
+38,Combustíveis,Aviação,Etanol para Aviação,Aviação,Biocombustível utilizado em aeronaves específicas homologadas para etanol.,Renovável
+39,Combustíveis,Ciclo Otto / Diesel,Combustíveis Renováveis,Transporte / Agronegócio,Linha completa de combustíveis obtidos a partir de fontes 100% renováveis para veículos e frotas.,Renovável
+40,Químicos e Petroquímicos,Enxofre,Enxofre,Agronegócio / Indústrias,"Utilizado como fertilizante, na nutrição animal e na produção de açúcar.",Fóssil
+41,Químicos e Petroquímicos,Óleos Minerais,Óleos Minerais Agrícolas,Agronegócio,Óleos utilizados para a proteção de cultivos e aumento da produtividade das lavouras.,Fóssil
+42,Químicos e Petroquímicos,Solventes,Solventes de Óleos Vegetais,Indústrias / Agronegócio,Solventes específicos para a extração de óleos vegetais e outras aplicações industriais.,Fóssil
+43,Soluções de Energia,Energia Elétrica,Geração Distribuída e Autoprodução,B2B / Agronegócio,"Serviços de migração para o mercado livre, geração própria e certificações de sustentabilidade.",Renovável
+44,Químicos e Petroquímicos,Solventes,Solventes Hidrocarbônicos,"Indústrias (Tintas, Adesivos, Borrachas, Domissanitários)","Inclui solventes alifáticos, aromáticos, hidrogenados e oxigenados, com taxas de evaporação adequadas para dispersantes ou diluentes.",Fóssil
+45,Químicos e Petroquímicos,Óleos de Processo,"Óleos Aromáticos, Naftênicos e Parafínicos",Indústria Química,Produzidos a partir do refino do petróleo para aplicação em diversos ramos da indústria química.,Fóssil
+46,Químicos e Petroquímicos,Enxofre,Enxofre Sólido e Líquido,"Agronegócio, Indústria de Açúcar, Celulose e Detergentes","Enxofre de elevada pureza para fabricação de fertilizantes, borracha e detergentes; única fornecedora de enxofre líquido no Brasil.",Fóssil
+47,Químicos e Petroquímicos,Óleos Agrícolas,Óleos Minerais Agrícolas,Agronegócio,Utilizados na proteção e aumento de produtividade de lavouras em todo o país.,Fóssil
+48,Químicos e Petroquímicos,Commodities Químicas,Inibidores de Hidrato e Biocidas,Óleo e Gás (Upstream),"Inclui MEG, etanol, metanol, e biocidas como THPS e quaternário de amônio para tratamento de tanques e poços.",Fóssil
+49,Químicos e Petroquímicos,Especialidades Químicas,Antiespumantes e Sequestrantes,Óleo e Gás (Upstream),Sequestrantes de H2S não nitrogenados e produtos para tratamento de membranas e inibição de corrosão.,Fóssil
+50,Químicos e Petroquímicos,Produtos de Performance,Desemulsificantes e Inibidores de Incrustação,Óleo e Gás (E&P),"Desenvolvidos de forma personalizada para cada cliente, incluindo clarificantes e inibidores de corrosão para equipamentos.",Fóssil
+51,Combustíveis,Ciclo Diesel,Diesel Petrobras Grid,"Postos de Combustível, Transporte, TRR",Combustível para motores de combustão interna e ignição por compressão com aditivos que limpam e protegem o motor.,Fóssil
+52,Combustíveis,Ciclo Diesel,Vibra Agritop Diesel,Agronegócio,Combustível diesel desenvolvido especificamente para atender às demandas do setor de agronegócio.,Fóssil
+53,Combustíveis,Ciclo Diesel,Vibra Supera Plus Diesel,"Transporte, Indústrias",Diesel de alta performance para motores de combustão interna.,Fóssil
+54,Combustíveis,Renováveis,Vibra Diesel Renovável,"Transporte, Indústrias",Solução de combustível de alta tecnologia obtida a partir de fontes limpas e renováveis.,Renovável
+55,Combustíveis,Renováveis,Biometano,"Indústrias, Transporte",Gás combustível renovável obtido a partir do biogás purificado.,Renovável
+56,Combustíveis,Ciclo Otto,Gasolinas Petrobras,"Postos de Combustível, Varejo",Linha completa de gasolinas para motores de ignição por centelha.,Fóssil
+57,Combustíveis,Ciclo Otto,Etanóis,"Postos de Combustível, Varejo",Combustíveis para o Ciclo Otto provenientes de fontes renováveis.,Renovável
+58,Combustíveis,Combustíveis Escuros,Óleo Combustível de Xisto OTE,Indústrias,Óleo combustível com vantagens competitivas e características técnicas superiores ao óleo tradicional.,Fóssil
+59,Combustíveis,Aviação,Combustíveis para Aviação,Aviação Comercial e Executiva,Combustíveis com o mais alto padrão de qualidade para o setor aeroespacial.,Fóssil
+60,Combustíveis,Combustíveis Sólidos,Coque Verde de Petróleo,"Indústrias, Óleo e Gás",Resíduo sólido de processos de refino de petróleo utilizado como combustível industrial.,Fóssil
+61,Combustíveis,Marítimos,Óleo Diesel Marítimo,"Óleo e Gás, Navegação","Combustível específico para motores navais, utilizado em embarcações nacionais e para exportação.",Fóssil
+62,Lubrificantes,Lubrax,Lubrificantes Lubrax,"Automotivo, Industrial, Agronegócio",Linha completa de óleos lubrificantes e graxas da marca Lubrax para diversas aplicações motoras e industriais.,Fóssil
+63,Combustíveis,Ciclo Otto,Gasolina,Postos de Serviço (Varejo),"Combustível para motores de combustão interna por centelha, disponível na rede de postos.",Fóssil
+64,Combustíveis,Ciclo Diesel,Óleo Diesel,Postos de Serviço e B2B (Indústria/Transporte),"Combustível para motores de ignição por compressão, utilizado em transporte e geração de energia.",Fóssil
+65,Combustíveis,Renováveis,Etanol (Álcool),Postos de Serviço (Varejo),Biocombustível de origem vegetal para veículos do Ciclo Otto.,Renovável
+66,Lubrificantes,Lubrax,Óleos Lubrificantes Lubrax,"Automotivo, Industrial, Agronegócio, Marítimo e Ferroviário",Linha completa de óleos para redução de atrito e proteção de motores e componentes mecânicos.,Fóssil
+67,Combustíveis de Aviação,BR Aviation,QAV (Querosene de Aviação),Aviação Comercial e Executiva,Combustível para aeronaves com motores a jato ou turbopropulsores.,Fóssil
+68,Combustíveis de Aviação,BR Aviation,AVGAS (Gasolina de Aviação),Aviação Geral (Pequeno Porte),Combustível específico para aeronaves equipadas com motores a pistão.,Fóssil
+69,Energia e Soluções,Soluções de Energia,Energia Elétrica / Mercado Livre,B2B / Corporativo,Comercialização de energia e soluções em eficiência energética para clientes corporativos.,Renovável
+70,Produtos Especiais,Químicos,Solventes,Indústria,Produtos químicos utilizados em processos industriais diversos como diluentes ou agentes de limpeza.,Fóssil
+71,Combustíveis Sólidos / Subprodutos,Coque,Coque de Petróleo,Indústria,Fonte de energia sólida derivada do refino de petróleo para uso industrial.,Fóssil
+72,Aditivos / Emissões,Flua,ARLA 32,Transporte Pesado (Diesel),Agente Redutor Líquido Automotivo para controle de emissões de NOx em motores Euro V ou superiores.,Não se aplica (Sintético)
+73,Combustíveis,Aviação,SAF (Sustainable Aviation Fuel),Aviação Comercial e Executiva,Biocombustível produzido a partir de óleo de cozinha usado (UCO) que reduz emissões de GEE em cerca de 80%; utilizado em mistura inicial de 10% com querosene fóssil.,Renovável
+74,Combustíveis,Aviação,Querosene de Aviação Fóssil,Aviação,Combustível de aviação convencional de origem fóssil utilizado para mistura (blend) com o SAF na proporção de 90%.,Fóssil
+75,Energia,Soluções de Energia,Soluções Comerc de Energia,B2B / Grandes Consumidores,Soluções integradas de energia focadas em descarbonização através da plataforma Comerc.,Renovável
+76,Motocicletas,Óleo de Motor,LUBRAX 2T FC,B2C / Motocicletas,Óleo lubrificante premium semissintético que oferece uma combustão mais limpa e reduz as emissões de fumaça. Protege contra formação de depósitos nos pistões.,Fóssil
+77,Graxas,Graxas Industriais,LUBRAX ALUMINUM FG2,B2B / Alimentício e Farmacêutico,"Graxa de grau alimentício (food grade) à base de sabão complexo de alumínio para indústrias de bebidas, farmacêutica e cosméticos.",Fóssil
+78,Hidráulicos,Fluídos,LUBRAX ATF,Automotivo / Industrial,"Óleo lubrificante hidráulico indicado para direção hidráulica, transmissões automáticas e sistemas hidráulicos industriais.",Fóssil
+79,Transmissão e Engrenagem,Óleo de Transmissão,LUBRAX ATF CVT,Automóveis e SUVs,Óleo lubrificante sintético de elevado desempenho para transmissões automáticas CVT do tipo correia ou corrente.,Fóssil
+80,Hidráulicos,Fluídos,LUBRAX ATF DX3,Automotivo (Ciclo Otto/Diesel),"Óleo hidráulico tipo ATF para transmissões automáticas e sistemas de direção. Atende GM Dexron III, Allison C-4 e Ford Mercon.",Fóssil
+81,Hidráulicos,Fluídos,LUBRAX ATF DX6,Automóveis e SUVs,Óleo lubrificante sintético de baixa viscosidade para transmissões automáticas sequenciais de 6 ou mais velocidades.,Fóssil
+82,Hidráulicos,Fluídos,LUBRAX ATF HD,Caminhões e Ônibus,Óleo lubrificante sintético para transmissões automáticas de veículos comerciais pesados operando sob condições severas.,Fóssil
+83,Hidráulicos,Fluídos,LUBRAX ATF TA,Automotivo / Motocicletas,Óleo lubrificante mineral para caixas de direção hidráulicas e garfos telescópicos de motocicletas (Fork Oil).,Fóssil
+84,Graxas,Graxas Automotivas,LUBRAX AUTOLITH 2,B2B / Automotivo,"Graxa à base de sabão de lítio para chassis, bombas d'água, rolamentos e juntas universais.",Fóssil
+85,Óleos isolantes,Industrial,LUBRAX AV 70 IN,B2B / Energia,"Óleo isolante de base mineral naftênica nacional, inibido com 0,3%m de antioxidante (BHT) para transformadores.",Fóssil
+86,Óleos isolantes,Industrial,LUBRAX AV 71 IN,B2B / Energia,"Óleo isolante de base mineral naftênica importada, inibido com 0,3%m de antioxidante (BHT) para equipamentos de manobra.",Fóssil
+87,Graxas,Graxas de Base Asfáltica,LUBRAX BETUMEN 300,B2B / Industrial,Graxa de base asfáltica para engrenagens abertas e cabos de aço. Alta adesividade e resistência à lavagem por água.,Fóssil
